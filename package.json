@@ -1,7 +1,7 @@
 {
-  "name": "hard-source-webpack-plugin",
-  "version": "0.13.1",
-  "description": "Hard cache the source of modules in webpack.",
+  "name": "@diablohu/hard-source-webpack-plugin",
+  "version": "0.13.2",
+  "description": "Hard cache the source of modules in webpack. Patched by @diablohu",
   "keywords": [
     "webpack",
     "disk",
